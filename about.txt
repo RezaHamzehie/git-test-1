@@ -1,0 +1,4 @@
+﻿/**
+this is a test appilaction for git, we use this to demonstrate the power of git,
+in order to learn it's tricks!
+*/
